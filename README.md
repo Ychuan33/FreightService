@@ -1,0 +1,111 @@
+# FreightService
+
+## User Store 1: Showing Flight Schedule
+
+- Flight: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Flight: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Flight: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Flight: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Flight: 5, Departure: YUL, Arrival: YYC, Day: 2
+- Flight: 6, Departure: YUL, Arrival: YVR, Day: 2
+
+# User Store 2: Showing Scheduled Orders
+
+- Order ID: order-001, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-002, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-003, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-004, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-005, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-006, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-007, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-008, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-009, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-010, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-011, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-012, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-013, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-014, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-015, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-016, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-017, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-018, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-019, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-020, FlightNumber: 1, Departure: YUL, Arrival: YYZ, Day: 1
+- Order ID: order-021, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-022, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-023, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-024, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-025, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-026, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-027, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-028, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-029, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-030, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-031, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-032, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-033, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-034, FlightNumber: 4, Departure: YUL, Arrival: YYZ, Day: 2
+- Order ID: order-035, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-036, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-037, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-038, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-039, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-040, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-041, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-042, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-043, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-044, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-045, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-046, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-047, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-048, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-049, FlightNumber: not scheduled
+- Order ID: order-050, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-051, FlightNumber: not scheduled
+- Order ID: order-052, FlightNumber: 2
+- Order ID: order-053, FlightNumber: not scheduled
+- Order ID: order-054, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-055, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-056, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-057, FlightNumber: 2, Departure: YUL, Arrival: YYC, Day: 1
+- Order ID: order-060, FlightNumber: 5, Departure: YUL, Arrival: YYC, Day: 2
+- Order ID: order-061, FlightNumber: 5, Departure: YUL, Arrival: YYC, Day: 2
+- Order ID: order-062, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-063, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-064, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-065, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-066, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-067, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-068, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-069, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-070, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-071, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-072, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-073, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-074, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-075, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-076, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-077, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-078, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-080, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-081, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-082, FlightNumber: 3, Departure: YUL, Arrival: YVR, Day: 1
+- Order ID: order-083, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-084, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-085, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-086, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-087, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-088, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-089, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-090, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-091, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-092, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-093, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-094, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-095, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-096, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-097, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-098, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+- Order ID: order-099, FlightNumber: 6, Departure: YUL, Arrival: YVR, Day: 2
+
+
